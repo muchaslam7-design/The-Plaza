@@ -5,18 +5,21 @@
 ---
 
 ##  Live Experience
-**View the live store here:** [View The Plaza Project](PASTE_YOUR_VERCEL_LINK_HERE)
+**View the live store here:** [View The Plaza Project](https://the-plaza-gah8.vercel.app/)
 
 ---
 
 ##  Store Highlights
-![Hero Section](c:\Users\Ali\Pictures\Screenshots\Screenshot (798).png)
+![Hero Section](<img width="1600" height="900" alt="Screenshot (798)" src="https://github.com/user-attachments/assets/1974962b-6539-43c8-b9de-e7db575daec2" />
+)
 *2025 Summer Collection with an Elegant Purple Aesthetic*
 
-![Product Catalog](c:\Users\Ali\Pictures\Screenshots\Screenshot (799).png)
+![Product Catalog](<img width="1600" height="900" alt="Screenshot (799)" src="https://github.com/user-attachments/assets/04ba8907-973f-475e-a5f9-a98fc0016c91" />
+)
 *Dynamic Product Filtering for Men, Women, and Accessories*
 
-![Cart Features](c:\Users\Ali\Pictures\Screenshots\Screenshot (800).png)
+![Cart Features](<img width="1600" height="900" alt="Screenshot (800)" src="https://github.com/user-attachments/assets/d6fb71e4-8cf9-46d6-ab6d-a38b87affeac" />
+)
 
 ---
 
@@ -39,6 +42,7 @@
 - **Products:** Category-based filtering (Men/Women).
 - **Lookbook & Blog:** Content-rich pages for user engagement.
 - **Cart:** Real-time item count and checkout flow.
+- **Contact Page:** Get in touch with us for support and inquiries.
 
 ---
 Crafted with passion by **Muneeba**
