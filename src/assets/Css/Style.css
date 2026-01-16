@@ -1,0 +1,50 @@
+@import "tailwindcss";
+
+@layer base {
+  /* Model animation*/
+  @keyframes entranceModel {
+    0% {
+      opacity: 0;
+      transform: translate(-50px, 100px); /* Left to bottom */
+    }
+    100% {
+      opacity: 1;
+      transform: translate(0, 0); 
+    }
+  }
+
+  /* Button animation: bottom to top */
+  @keyframes entranceText {
+    0% {
+      opacity: 0;
+      transform: translateY(100px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  /* Floating animation */
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-20px); }
+  }
+
+  .animate-entrance-model {
+    animation: entranceModel 1.2s ease-out forwards;
+  }
+
+  .animate-entrance-text {
+    animation: entranceText 1s ease-out forwards;
+  }
+
+  .animate-float {
+    animation: float 3s ease-in-out infinite;
+  }
+}
+@keyframes loading-bar {
+          0% { transform: translateX(-100%); }
+          100% { transform: translateX(100%); }
+        }
+      
