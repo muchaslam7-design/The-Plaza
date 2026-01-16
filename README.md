@@ -10,15 +10,18 @@
 ---
 
 ##  Store Highlights
-![Hero Section](<img width="1600" height="900" alt="Screenshot (798)" src="https://github.com/user-attachments/assets/1974962b-6539-43c8-b9de-e7db575daec2" />
+![Hero Section](<img width="1600" height="900" alt="Screenshot (798)" src="https://github.com/user-attachments/assets/f4fe30ea-46b7-4e13-988e-e01dd15e3344" />
+
 )
 *2025 Summer Collection with an Elegant Purple Aesthetic*
 
-![Product Catalog](<img width="1600" height="900" alt="Screenshot (799)" src="https://github.com/user-attachments/assets/04ba8907-973f-475e-a5f9-a98fc0016c91" />
+![Product Catalog](<img width="1600" height="900" alt="Screenshot (799)" src="https://github.com/user-attachments/assets/bc6cb76d-1d10-440c-b8af-243ea29a6f67" />
+
 )
 *Dynamic Product Filtering for Men, Women, and Accessories*
 
-![Cart Features](<img width="1600" height="900" alt="Screenshot (800)" src="https://github.com/user-attachments/assets/d6fb71e4-8cf9-46d6-ab6d-a38b87affeac" />
+![Cart Features](<img width="1600" height="900" alt="Screenshot (800)" src="https://github.com/user-attachments/assets/ad1bb8fa-1264-4381-8a09-2c9a275e323d" />
+
 )
 
 ---
